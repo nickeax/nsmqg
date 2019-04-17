@@ -1,0 +1,67 @@
+body {
+  background-color: #ededf5;
+}
+
+table tr td {
+  padding: 1px;
+}
+span.questionBox {
+  display: inline-block;
+  padding: 10px;
+}
+.questionBox {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+}
+.correct {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgba(41, 7, 7, 0.788);
+  border-radius: 5px;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+span.scorePill {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(78, 193, 197);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(10, 10, 10, .06);
+}
+div.scorePill {
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(78, 193, 197);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(10, 10, 10, .06);
+}
+span.cancel {
+  color: #fff;
+  display: inline-block;
+  padding: 8px;
+  background-color: rgb(209, 26, 26);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(10, 10, 10, .06);
+}
+
+.asker {
+  display: inline-block;
+  padding: 2px;
+  color: wheat;
+  font-size: 12px;
+}
+
+a {
+  color: rgb(9, 17, 24);
+  text-decoration: none;
+}
+
+/* ::placeholder {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: rgb(230, 68, 68);
+} */
